@@ -1,6 +1,6 @@
-<h1><img src="https://github.com/tjf952.png" width="40"/> Wow, you found my Github! </h1>
+<h1><img src="https://github.com/tjf952.png" width="40" style="border-radius:50%"/> Wow, you found my Github! </h1>
 
-<p style="font-size: 16px"> :grey_exclamation: So you found my hidden hole on the great big internet. I'm Thomas and I am trying my best to grow in knowledge about things from here and there. I graduated from University of Southern California with a degree in Computer Science and Computer Engineering back in 2019. I have also been playing with Capture the Flags and Hackathons since late highschool, but have just now realized that it would be a good idea to share all my knowledge (and find a place to put it all). Currently, I'm a tool developer and do a lot of programming in a wide variety of languages though I definitely prefer Python and Java. Anyhow, stay as long as you want and feel free to reach out to me. And remember: Let's all have fun and play together! </p>
+<p style="font-size: 16px"> :unlock: So you found my hidden hole on the great big internet. I'm Thomas and I am trying my best to grow in knowledge about things from here and there. I graduated from University of Southern California with a degree in Computer Science and Computer Engineering back in 2019. I have also been playing with Capture the Flags and Hackathons since late highschool, but have just now realized that it would be a good idea to share all my knowledge (and find a place to put it all). Currently, I'm a tool developer and do a lot of programming in a wide variety of languages though I definitely prefer Python and Java. Anyhow, stay as long as you want and feel free to reach out to me. And remember: Let's all have fun and play together! </p>
 
 ## Programming Languages
 
@@ -23,20 +23,3 @@
 <p align=center ><img src="https://github-readme-stats.vercel.app/api?username=tjf952&show_icons=true&include_all_commits=true&theme=tokyonight&hide=issues,contribs&count_private=true"/></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjf952&layout=compact&theme=tokyonight"/></p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tjf952&layout=compact&theme=tokyonight"/></p>
-
-<!--
-**tjf952/tjf952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
