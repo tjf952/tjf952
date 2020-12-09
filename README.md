@@ -24,4 +24,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjf952&layout=compact&theme=tokyonight"/></p>
 
-#### Remember to visit my website [HERE](tjf952.github.io)
+<p align="right"> Remember to visit my website <a href="tjf952.github.io">HERE</a> 
+:star:
+</p>
