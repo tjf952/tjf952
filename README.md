@@ -1,6 +1,6 @@
-<h1><img src="queen.png" height="40" style="border-radius:50%"/> Wow, you found my Github! </h1>
+<h1><img src="queen.png" height="50" style="border-radius:50%"/> Wow, you found my Github! :unlock: </h1>
 
-<p style="font-size: 14px"> :unlock: So you found my hidden hole on the great big internet. I'm Thomas and I am trying my best to grow in knowledge about things from here and there. I graduated from University of Southern California with a degree in Computer Science and Computer Engineering back in 2019. I have also been dabbling with Capture the Flags and Hackathons since late highschool and have started to walk the route of penetration testing. Currently, I'm a tool developer and do a lot of programming in a wide variety of languages though I definitely prefer Python and Java. Anyhow, stay as long as you want and feel free to reach out to me. And remember: <b>Let's all have fun and play together!</b> </p>
+<p style="font-size: 14px"> So you found my hidden hole on the great big internet. I'm Thomas and I am trying my best to grow in knowledge about things from here and there. I graduated from University of Southern California with a degree in Computer Science and Computer Engineering back in 2019. I have also been dabbling with Capture the Flags and Hackathons since late highschool and have started to walk the route of penetration testing. Currently, I'm a tool developer and do a lot of programming in a wide variety of languages though I definitely prefer Python and Java. Anyhow, stay as long as you want and feel free to reach out to me. And remember: <b>Let's all have fun and play together!</b> </p>
 
 ## Programming Languages
 
@@ -24,6 +24,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjf952&layout=compact&theme=tokyonight"/></p>
 
-<p align="right"> Remember to visit my website <a href="tjf952.github.io">HERE</a> 
-:star:
-</p>
+<p align="right"> Remember to visit my website <a href="tjf952.github.io">HERE</a> :star: </p>
