@@ -24,4 +24,14 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjf952&layout=compact&theme=tokyonight"/></p>
 
+## Other Places I Hang Out
+
+#### Codewars
+[![Codewars](https://www.codewars.com/users/tjf952/badges/large)](https://www.codewars.com/users/tjf952)
+
+#### Hack the Box
+[![HTB](https://www.hackthebox.eu/badge/image/377239)](https://www.hackthebox.eu/home/users/profile/377239)
+
+... will add the rest later
+
 <p align="right"> Remember to visit my website <a href="https://tjf952.github.io/">HERE</a> :star: </p>
