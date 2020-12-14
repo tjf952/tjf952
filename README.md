@@ -33,10 +33,7 @@
 [![HTB](https://www.hackthebox.eu/badge/image/377239)](https://www.hackthebox.eu/home/users/profile/377239)
 
 #### TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/tjf952.png" alt="TryHackMe">
-
-
-[![THM](https://tryhackme.com/badge/252388)](https://tryhackme.com/p/tjf952)
+[![THM](thm-tjf952.png)](https://tryhackme.com/p/tjf952)
 
 ... will add the rest later
 
