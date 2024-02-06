@@ -40,4 +40,4 @@
 
 ---
 
-<p align="right"> I changed to keeping my notes at a gitbook, feel free to check it out <a href="https://app.gitbook.com/invite/4TdNC5HZt9UIyCusQchk/aeCuqNAuag4dguKHUoNT">HERE</a> :star: </p>
+<p align="right"> I changed to keeping my notes at a gitbook, feel free to check it out <a href="https://tjf952.gitbook.io/disboard/">HERE</a> :star: </p>
