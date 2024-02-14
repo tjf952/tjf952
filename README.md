@@ -25,7 +25,8 @@
 ## Other Places I Hang Out
 
 #### TryHackMe
-[![THM](https://tryhackme-badges.s3.amazonaws.com/tjf952.png)](https://tryhackme.com/p/tjf952)
+[![THM](https://tryhackme-badges.s3.amazonaws.com/cyb3rn1nja.png
+)](https://tryhackme.com/p/cyb3rn1nja)
 
 #### Codewars
 [![Codewars](https://www.codewars.com/users/tjf952/badges/large)](https://www.codewars.com/users/tjf952)
