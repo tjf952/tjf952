@@ -1,6 +1,6 @@
 <h1><img src="queen.png" height="50" style="border-radius:50%"/> Wow, you found my Github! :unlock: </h1>
 
-<p style="font-size: 14px"> So you found my hidden hole on the great big internet. I'm Thomas and I am trying my best to grow in knowledge about things from here and there. I graduated from University of Southern California with a degree in Computer Science and Computer Engineering back in 2019. I have also been dabbling with Capture the Flags and Hackathons since late highschool and have started to walk the route of penetration testing. Currently, I'm a tool developer and do a lot of programming in a wide variety of languages though I definitely prefer Python and Java. Anyhow, stay as long as you want and feel free to reach out to me. And remember: <b>Let's all have fun and play together!</b> </p>
+<p style="font-size: 14px"> Hello there! I'm your friendly neighborhood tool developer. This is my little piece of the Internet where I store my non-work related coding projects and other cyber-related solutions! </p>
 
 ## Programming Languages
 
@@ -30,9 +30,6 @@
 #### Codewars
 [![Codewars](https://www.codewars.com/users/tjf952/badges/large)](https://www.codewars.com/users/tjf952)
 
-#### Hack the Box
-[![HTB](https://www.hackthebox.eu/badge/image/377239)](https://www.hackthebox.eu/home/users/profile/377239)
-
 #### LeetCode
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftjf952&logo=leetcode&logoColor=yellow)](https://leetcode.com/tjf952/)
 
@@ -40,4 +37,4 @@
 
 ---
 
-<p align="right"> I changed to keeping my notes at a gitbook, feel free to check it out <a href="https://tjf952.gitbook.io/disboard/">HERE</a> :star: </p>
+<p align="right"> As of late 2023, instead of my library of hand written notebooks, I started tracking my notes and walkthroughs for boxes <a href="https://tjf952.gitbook.io/disboard/">HERE</a> :star: </p>
